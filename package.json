@@ -1,0 +1,11 @@
+{
+  "name": "yanka-and-zubr",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Yanka & Zubr — a Belarusian folk platformer.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.js"
+  }
+}
